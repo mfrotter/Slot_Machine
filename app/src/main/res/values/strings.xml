@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Slot Machine</string>
+    <string name="pull">Pull</string>
+    <string name="balance">Balance:</string>
+    <string name="_500_credits">500 credits</string>
+    <string name="add_balance">Add Balance</string>
+    <string name="_0_credits">0 credits</string>
+    <string name="title_activity_payout_table">PayoutTable</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="payout_table">Payout Table</string>
+    <string name="pay_table_is_as_follows">Pay Table is as Follows:</string>
+    <string name="_500">500</string>
+    <string name="_15">15</string>
+    <string name="_20">20</string>
+    <string name="_50">50</string>
+    <string name="_100">100</string>
+    <string name="_5">5</string>
+    <string name="_2">2</string>
+    <string name="_10">10</string>
+    <string name="back">back</string>
+</resources>
